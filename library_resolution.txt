@@ -1,2 +1,3 @@
 Library Resolution
 - Membuat Aplikasi untuk pengelolaan laporan kerja
+- Membuat Pelatihan Penggunaan Aplikasi
