@@ -3,3 +3,4 @@ Rencana Konten Perpus
 - Video Penggunaan
 - Vlog
 - Framework
+- Fundamental
